@@ -1,6 +1,6 @@
 # Máquina de Café em Arduino Uno
 
-Este pequeno projeto feito com dois arduinos uno, ligados através de I2C, consiste em um sistema simples que prepara um café com leite e após uma certa quantidade de cafés servidos avisa que o café acabou.
+Este pequeno projeto feito com dois arduinos uno, ligados através de I2C, consiste em um sistema simples que prepara um café com leite e após uma certa quantidade de cafés servidos avisa que o café acabou. Também verifica se há um copo prensente, caso sontrário mostra um aviso na tela LCD.
 
 
 ## Files
